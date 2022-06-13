@@ -1,2 +1,2 @@
-# chaning_route_zuri
+# Changing Route Zuri
 A simple djanngo project from I4GxZURI internship
